@@ -7,7 +7,7 @@
 - 🎓 Currently in the 5th semester of B.Tech in Computer Science at *Graphic Era University*
 - 💡 Passionate about Machine Learning & Backend Development
 - 🌱 Always learning and exploring new technologies  
-- 📫 Reach me at your-khulbepriyanshu0@gmail.com  
+- 📫 Reach me at khulbepriyanshu0@gmail.com  
 - ⚡️ Fun fact: *I debug faster with coffee ☕️*
 
 ---
