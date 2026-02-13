@@ -1,54 +1,48 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Khulbe</h1>
-<h3 align="center">A passionate Developer from India 🚀</h3>
+![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=28&color=ffdf87&pause=1000&width=435&lines=Hey+there%2C+I'm+Priyanshu+Khulbe+!+👋🏻)
+
+I'm a Computer Science Engineering undergraduate passionate about Data Structures, Backend Development & building scalable systems. 💻🚀  
+
+- 📚 Currently deep diving into DSA (Trees, Graphs, Dynamic Programming)  
+- 🔥 Actively solving problems on LeetCode  
+- 🛠️ Building a Real-Time Chat Web Application with proper authentication architecture  
+- 🌱 Exploring Backend (Node.js) & Machine Learning  
+- 🎯 Targeting high-impact internships & strong tech roles  
 
 ---
 
-### 🧑‍💻 About Me
-- 🎓 Currently in the 5th semester of B.Tech in Computer Science at *Graphic Era University*
-- 💡 Passionate about Machine Learning & Backend Development
-- 🌱 Always learning and exploring new technologies  
-- 📫 Reach me at khulbepriyanshu0@gmail.com  
-- ⚡️ Fun fact: *I debug faster with coffee ☕️*
+### 🔗 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyanshu-khulbe/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/khulbepriyanshu44/)
 
 ---
 
-### 🔗 Connect with Me
-<p align="left">
-<a href="https://twitter.com/yourtwitter" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://linkedin.com/in/yourlinkedin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/yourinstagram" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-</p>
+### ⚡ Tech Stack
+
+- 💻 Languages: C++, Java, JavaScript  
+- 🌐 Web: HTML, CSS, Node.js  
+- 🧠 Core: DSA, OOP, DBMS, OS  
+- 🛠️ Tools: Git, GitHub  
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
+### 🚀 Projects
+
+🔹 **Real-Time Chat Application**  
+Full-stack chat system with secure authentication, session management & scalable backend architecture.
+
+🔹 **Face Recognition Attendance System**  
+Built using OpenCV + Machine Learning for automated attendance tracking.
+
+🔹 **Odin Recipes Web Application**  
+Responsive recipe website built using HTML & CSS.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshukulbe&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshukulbe&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</p>
+### 🔥 LeetCode Stats
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/khulbepriyanshu44?ext=heatmap&theme=dark&border=3&radius=12)](https://leetcode.com/u/khulbepriyanshu44/)
 
 ---
 
-### 🏆 Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Priyanshukulbe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-⭐️ If you like my work, consider giving a star to my repos!
+![](https://komarev.com/ghpvc/?username=khulbepriyanshu44&style=plastic&color=8f152a)
