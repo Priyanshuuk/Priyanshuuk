@@ -2,7 +2,7 @@
 
 I'm a Computer Science Engineering undergraduate passionate about Data Structures, Backend Development & building scalable systems. 💻🚀  
 
-- 📚 Currently deep diving into DSA (Trees, Graphs, Dynamic Programming)  
+- 📚 Currently deep diving into DSA
 - 🔥 Actively solving problems on LeetCode  
 - 🛠️ Building a Real-Time Chat Web Application with proper authentication architecture  
 - 🌱 Exploring Backend (Node.js) & Machine Learning  
